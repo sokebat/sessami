@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sessami/static/css/main.0f66d5cc.css",
+    "main.js": "/sessami/static/js/main.b7d14c4f.js",
+    "static/js/787.6e1cc946.chunk.js": "/sessami/static/js/787.6e1cc946.chunk.js",
+    "static/media/prague.png": "/sessami/static/media/prague.be353f1225a8357d5a9a.png",
+    "static/media/london.png": "/sessami/static/media/london.3d5c05d5aca703c23682.png",
+    "static/media/barcelona.png": "/sessami/static/media/barcelona.6ec19d3d67d203d07ee0.png",
+    "static/media/paris.png": "/sessami/static/media/paris.cb34505da92f88802101.png",
+    "index.html": "/sessami/index.html",
+    "main.0f66d5cc.css.map": "/sessami/static/css/main.0f66d5cc.css.map",
+    "main.b7d14c4f.js.map": "/sessami/static/js/main.b7d14c4f.js.map",
+    "787.6e1cc946.chunk.js.map": "/sessami/static/js/787.6e1cc946.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f66d5cc.css",
+    "static/js/main.b7d14c4f.js"
+  ]
+}
